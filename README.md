@@ -15,6 +15,10 @@
 - ❌ Medium Username Search
 - ❌ Tumblr Username Search
 
+
+![image](https://github.com/kabagouda/netname/assets/64534846/ce1d9878-d07b-4bb1-872b-f9366ae900ac)
+
+
 Check out the Live Demo: [https://netname.vercel.app/](https://netname.vercel.app/)
 
 ## Getting Started
