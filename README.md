@@ -1,9 +1,9 @@
 # Username search project
 
 - ✅ Twitter Username Search
-- ❌ Instagram Username Search
-- ❌ Facebook Username Search
-- ❌ Github Username Search
+- ✅ Instagram Username Search
+- ✅ Facebook Username Search
+- ✅ Github Username Search
 - ❌ Pinterest Username Search
 - ❌ Reddit Username Search
 - ❌ Youtube Username Search
@@ -11,13 +11,11 @@
 - ❌ Tiktok Username Search
 - ❌ Telegram Username Search
 - ❌ Spotify Username Search
-- ❌ Linkedin Username Search
+- ✅ Linkedin Username Search
 - ❌ Medium Username Search
 - ❌ Tumblr Username Search
 
-
 ![image](https://github.com/kabagouda/netname/assets/64534846/ce1d9878-d07b-4bb1-872b-f9366ae900ac)
-
 
 Check out the Live Demo: [https://netname.vercel.app/](https://netname.vercel.app/)
 
