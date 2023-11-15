@@ -13,6 +13,9 @@
     "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
+    "debounce": "^1.2.1",
+    "lodash": "^4.17.21",
+    "lodash.debounce": "^4.0.8",
     "lucide-react": "^0.292.0",
     "next": "14.0.2",
     "react": "^18",
@@ -21,6 +24,9 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@types/debounce": "^1.2.4",
+    "@types/lodash": "^4.14.201",
+    "@types/lodash.debounce": "^4.0.9",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
