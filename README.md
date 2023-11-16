@@ -1,70 +1,68 @@
-# Username Search Project
+# Username Search Project 🚀
 
-Welcome to the Username Search project! This tool allows you to search for usernames on various platforms. Below is a list of supported platforms, along with information about those under development.
-
-## Supported Platforms
-
-- ✅ Twitter
-- ✅ Instagram
-- ✅ Facebook
-- ✅ Github
-- ✅ Linkedin
-
-## Upcoming Platforms
-
-The following platforms are currently under development:
-
-- ❌ Pinterest
-- ❌ Reddit
-- ❌ Youtube
-- ❌ Twitch
-- ❌ Tiktok
-- ❌ Telegram
-- ❌ Spotify
-- ❌ Medium
-- ❌ Tumblr
-
-
-
-<p align="center" >
-  <img  width ="50%" src="https://github.com/kabagouda/netusername/assets/64534846/7b31902e-a263-41df-b986-0f245ff81a2e" alt="Binder logo">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50923265/222929510-368a8fbd-d3ba-4f96-92f0-ed0c3d31876e.gif" alt="Username Search Demo">
 </p>
 
-<p align="center" >
-  Check out the Live Demo: https://netusername.vercel.app/
-</p>
+A magical tool for searching usernames across social media.
+
+Username Search allows you to seamlessly check if a username is taken on major platforms like Twitter, Instagram, GitHub, and more. No more guessing if your desired handle is available!
+
+## 🔎 Features
+
+✅ Check username availability across **5+ platforms** including Twitter, Instagram, GitHub, LinkedIn, Facebook, and more
+
+✅ See profile information and **quick stats** for taken usernames
+
+✅ **Real-time validation** as you type with smooth UX
+
+✅ Completely **free** to use
+
+## 💻 Frontend
+
+- React
+- Next.js 
+- Shadcn UI
+
+## 🤖 Backend
+
+- Python
+- FastAPI
+
+## 📦 Infrastructure
+
+- Kubernetes
+  
+## 🚀 Deployment
+
+- Vercel
 
 
-## Getting Started
+## 🚀 Getting Started
 
-To get started with development, run the following commands:
+### Live Demo
 
-```bash
+Try the live demo: [netusername.vercel.app](https://netusername.vercel.app/)
+
+### Running Locally
+
+```
+git clone https://github.com/kabagouda/netusername.git
+cd netusername
+npm install
 npm run dev
-
-# or
-
-yarn dev
-
-# or
-
-pnpm dev
-
-# or
-
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view Username Search in your browser.
 
-## Contributing
+## 🤝 Contributing
 
-If you'd like to contribute to this project, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## License
+## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under MIT - see [LICENSE.md](LICENSE.md) for more details.
 
-## Authors
+## 💜 Thanks
 
-- [Kab Agouda](https://www.twitter/kabagouda) - Initial work
+Made with love by [Kab Agouda](https://github.com/kabagouda).
