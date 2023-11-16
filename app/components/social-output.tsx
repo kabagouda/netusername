@@ -25,7 +25,7 @@ export const SocialOutput: FC<SocialOutputProps> = (props) => {
           setIsAvailable(res?.available ?? false);
         }
       );
-    }, 500),
+    }, 1500),
     [username, social]
   );
 
