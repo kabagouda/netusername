@@ -2,8 +2,6 @@
 
 Welcome to the Username Search project! This tool allows you to search for usernames on various platforms. Below is a list of supported platforms, along with information about those under development.
 
-Check out the Live Demo: [https://netname.vercel.app/](https://netusername.vercel.app/)
-
 ## Supported Platforms
 
 - ✅ Twitter
@@ -26,8 +24,15 @@ The following platforms are currently under development:
 - ❌ Medium
 - ❌ Tumblr
 
-![image](https://github.com/kabagouda/netusername/assets/64534846/2d781ae9-cf69-4836-b82a-0c2ee65f3b8c)
 
+
+<p align="center" >
+  <img  width ="50%" src="https://github.com/kabagouda/netusername/assets/64534846/7b31902e-a263-41df-b986-0f245ff81a2e" alt="Binder logo">
+</p>
+
+<p align="center" >
+  Check out the Live Demo: https://netusername.vercel.app/
+</p>
 
 
 ## Getting Started
