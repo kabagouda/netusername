@@ -19,7 +19,7 @@ export default function Component() {
   return (
     <section className="w-screen h-screen flex flex-col items-center justify-center bg-gray-200 dark:bg-gray-800 p-4">
       <h1 className="text-4xl font-bold mb-4 text-gray-800 dark:text-gray-200">
-        Username Search
+        NetUsername
       </h1>
       <p className="mb-4 text-center text-gray-600 dark:text-gray-400">
         Discover social media profiles by username. Search for usernames across
