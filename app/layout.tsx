@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Netname",
+  title: "NetUsername",
   description: "Discover social media profiles by username.",
 };
 
