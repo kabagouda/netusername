@@ -19,7 +19,7 @@ export default function Component() {
   return (
     <section className="w-screen h-screen flex flex-col items-center justify-center bg-gray-200 dark:bg-gray-800 p-4">
       <h1 className="text-4xl font-bold mb-4 text-gray-800 dark:text-gray-200">
-        NetUsername
+        Net Username
       </h1>
       <p className="mb-4 text-center text-gray-600 dark:text-gray-400">
         Discover social media profiles by username. Search for usernames across
@@ -27,15 +27,15 @@ export default function Component() {
       </p>
       <div className="w-full max-w-xl mx-auto flex items-center space-x-3 mb-6">
         <Input
-          className="flex-grow h-10 px-4 rounded-lg bg-white dark:bg-gray-900"
-          // defaultValue="@elonmusk"
-          // placeholder with example @elonmusk
+          className="flex-grow h-10 px-4 rounded-lg bg-white dark:bg-gray-900 text-gray-700 dark:text-gray-300"
           placeholder="Enter username , e.g. @elonmusk"
           type="text"
           value={username}
           onChange={(e) => setUsername(e.target.value)}
         />
+
         <Button
+          className="bg-black text-white"
           onClick={() => {
             // debouncedSearch();
           }}
