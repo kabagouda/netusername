@@ -34,14 +34,8 @@ export default function Component() {
           onChange={(e) => setUsername(e.target.value)}
         />
 
-        <Button
-          className="bg-black text-white"
-          onClick={() => {
-            // debouncedSearch();
-          }}
-        >
+        <Button className="bg-black text-white">
           {ProjectIcons.search}
-
           <span className="sr-only">Search</span>
         </Button>
       </div>
