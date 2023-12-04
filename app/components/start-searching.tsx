@@ -3,7 +3,7 @@ const StartSearching = () => {
     <div className="w-full max-w-xl mx-auto mt-6 space-y-3 text-gray-800 dark:text-gray-200 overflow-y-auto h-1/2">
       <div className="flex flex-col items-center justify-center h-full">
         <svg
-          className=" h-24 w-24 text-gray-400 dark:text-gray-600 mb-4"
+          className=" h-24 w-24 text-gray-400 dark:text-gray-600 mb-4 "
           fill="none"
           height="24"
           stroke="currentColor"
